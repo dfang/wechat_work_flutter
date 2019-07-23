@@ -1,14 +1,9 @@
 # wechat_work
 
-A new flutter plugin project.
+企业微信 sdk for flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+[企业微信登录](https://work.weixin.qq.com/api/doc#90000/90136/91191)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+[企业微信分享](https://work.weixin.qq.com/api/doc#90000/90136/91192)
