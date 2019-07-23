@@ -1,8 +1,8 @@
 name: wechat_work
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: dfang <df1228@gmail.com>
+homepage: https://github.com/dfang/wechat_work_flutter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
